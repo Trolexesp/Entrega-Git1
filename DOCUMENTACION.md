@@ -59,3 +59,5 @@ Conflictos de Git
 Un conflicto ocurre cuando dos personas modifican la misma parte de un archivo y Git no sabe qué cambio debe dejar.
 
 Para solucionarlo hay que revisar el archivo, elegir los cambios correctos y después volver a guardar los cambios con un commit.
+
+![Repositorio](/Images/repositorio.png)
