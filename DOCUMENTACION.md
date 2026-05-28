@@ -61,3 +61,7 @@ Un conflicto ocurre cuando dos personas modifican la misma parte de un archivo y
 Para solucionarlo hay que revisar el archivo, elegir los cambios correctos y después volver a guardar los cambios con un commit.
 
 ![Repositorio](/Images/repositorio.png)
+
+![Repositorio](/Images/imagenes.png)
+
+![Repositorio](/Images/historial.png)
